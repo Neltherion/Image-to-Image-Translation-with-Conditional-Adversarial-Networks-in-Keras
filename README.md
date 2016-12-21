@@ -18,11 +18,11 @@ It's already been [implemented in Torch/Lua](https://github.com/phillipi/pix2pix
 
 The model's output is not promising. here's what the paper's code generates:
 
-![alt text](https://github.com/Neltherion/Image-to-Image-Translation-in-Keras/blob/master/Images/PaperOutput.PNG "The Paper's Output")
+![alt text](https://github.com/Neltherion/Image-to-Image-Translation-in-Keras/blob/master/Images/PaperOutput.png?raw=true "The Paper's Output")
 
 and here's the Model's output:
 
-![alt text](https://github.com/Neltherion/Image-to-Image-Translation-in-Keras/blob/master/Images/OurModelOutput.PNG "The Model's Output")
+![alt text](https://github.com/Neltherion/Image-to-Image-Translation-in-Keras/blob/master/Images/OurModelOutput.png?raw=true "The Model's Output")
 
 I'm open to every advice on how to improve this model and make it a useful cGAN.
 Unfortunately there aren't many other cGAN implementations in Keras around and I'm not even sure if this model is properly designed.
