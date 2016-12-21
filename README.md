@@ -24,7 +24,8 @@ and here's the Model's output:
 
 ![alt text](https://github.com/Neltherion/Image-to-Image-Translation-in-Keras/blob/master/Images/OurModelOutput.PNG "The Model's Output")
 
-I'm open to any advices on how to improve this model and make it a useful cGAN.
+I'm open to every advice on how to improve this model and make it a useful cGAN.
+Unfortunately there aren't many other cGAN implementations in Keras around and I'm not even sure if this model is properly designed.
 
 
 
