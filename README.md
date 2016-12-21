@@ -1,4 +1,4 @@
-# Image-to-Image-Translation-in-Keras
+# Image to Image Translation with Conditional Adversarial Networks in Keras
 
 This is an attempt to code the [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) paper in Keras.
 
